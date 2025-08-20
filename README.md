@@ -1,10 +1,37 @@
-Welcome to Aleš Tománek's notes on Cyber. More info here: (https://cyber-11.gitbook.io/i-hack-i-conquer)
+---
+description: Latest stuff I've been learning
+---
 
-I will document my learning here
+# Welcome to Aleš Tománek's notes on Cyber
 
-This will forever be in progress
+{% content-ref url="cisco-networking-academy/" %}
+[cisco-networking-academy](cisco-networking-academy/)
+{% endcontent-ref %}
 
-![988e997821e0f171228bb076688b5ced](https://github.com/user-attachments/assets/69c80dc0-78d2-42e1-8039-f8474e716e3d)
+{% content-ref url="open-uni-cyber-foundations-notes.md" %}
+[open-uni-cyber-foundations-notes.md](open-uni-cyber-foundations-notes.md)
+{% endcontent-ref %}
 
+{% content-ref url="ncfe-l3-cyber-assignments-and-feedback/" %}
+[ncfe-l3-cyber-assignments-and-feedback](ncfe-l3-cyber-assignments-and-feedback/)
+{% endcontent-ref %}
 
-I finished a room on THM https://tryhackme.com/room/cve202141773
+{% content-ref url="tryhackme.com-cyber-security-101-notes/" %}
+[tryhackme.com-cyber-security-101-notes](tryhackme.com-cyber-security-101-notes/)
+{% endcontent-ref %}
+
+{% content-ref url="python-100-days-of-code-the-complete-python-pro-bootcamp-notes/" %}
+[python-100-days-of-code-the-complete-python-pro-bootcamp-notes](python-100-days-of-code-the-complete-python-pro-bootcamp-notes/)
+{% endcontent-ref %}
+
+{% content-ref url="random-experiments/" %}
+[random-experiments](random-experiments/)
+{% endcontent-ref %}
+
+{% content-ref url="certificates-and-badges/" %}
+[certificates-and-badges](certificates-and-badges/)
+{% endcontent-ref %}
+
+{% content-ref url="tryhackme.com-cyber-security-101-notes/exploitation-basics/metasploit/msfvenom.md" %}
+[msfvenom.md](tryhackme.com-cyber-security-101-notes/exploitation-basics/metasploit/msfvenom.md)
+{% endcontent-ref %}

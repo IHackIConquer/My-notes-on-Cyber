@@ -1,0 +1,256 @@
+﻿NCFE Level 3 Certificate in Cyber Security Practices
+Unit 2: Threat intelligence in cyber security
+Section 3: Understanding malicious software
+
+Slide 1
+What you'll learn
+Welcome to Section 3: Understanding malicious software.
+During this Section, you will cover the following assessment criteria:
+3.1 Identify types of malicious software.
+3.2 Describe the effects of different types of malicious software on an infected system.
+3.3 Describe the motives for using specific malicious software attacks.
+3.4 Identify how specific malicious software attacks are made more effective due to human factors.
+
+Slide 2
+Identifying types of malicious software
+Key term: ˜Malicious software or malware is software designed to disable, damage or allow access to a system or network.
+There are many different types of malicious software, or malware. Here we will look at some of the most common in more detail.
+
+Tab 1
+Virus
+A computer virus is software that changes or modifies other legitimate host files in such a way that when a victim's file is executed, the virus is also executed.
+
+Tab 2
+Worm
+Worms are a type of malware that can spread copies of themselves without any human involvement. They are most common as email message attachments.
+Computer worms are a bit less common today, as more people have caught on that they should never click on an attachment from someone they do not know.
+
+Tab 3
+Trojan
+A Trojan is a type of malicious code that looks like a legitimate piece of software, but contains malicious instructions. There are many types of Trojans, such as backdoors, rootkits and Remote Access Trojans (RATs). These allow the attacker to take remote control over the victim's computer, and are designed to avoid detection. Threat actors don't even need to write their own Trojan, they can buy a pre-written one through black web marketplaces.
+
+Tab 4
+Hybrid
+Most modern malware is actually a combination of traditional types, such as Trojans or worms. For example, bots are a combination of a Trojan and a worm that link up individual infected computers to form part of a larger malicious network called a botnet.
+
+Tab 5
+Ransomware
+This is a malware program that encrypts your data and hold it as hostage. Victims will then need to pay a ransom (in cryptocurrency) to get control back.
+
+Tab 6
+Spyware and Adware
+Spyware can be used by people who want to check on the computer activities of friends and family. Threat actors use it in targeted attacks to log the keystrokes of victims and learn passwords or other information.
+Adware attempts to expose the user to unwanted, potentially malicious advertising. A common adware program might redirect a user's browser searches to look-alike web pages that contain other product promotions.
+
+Slide 3
+The effects of malicious software
+Click the numbered buttons to explore the effects that different types of malicious software can have on an infected system.
+
+Button 1
+Unexpected pop-up windows
+Unexpected or unusual dialog boxes and windows can be a sign that a computer is infected with a Trojan. These often take the form of fake virus warnings, ads or pornographic images that pop up on the screen without warning.
+
+Button 2
+Random sounds
+Computers are often programmed to respond with an audio signal, like a warning beep, to things you cannot control. For example, when an error message pops up, it may also come with a warning beep. Some types of malware prevent the message window from popping up, but not the beep, so you may hear a random sound in the background.
+
+Button 3
+Unexplained file or folder changes or missing data
+Malware of all types can delete files and data or alter the content of files.
+
+Button 4
+Slow operation
+Malware such as Trojans, spyware and adware can take up memory and power. All of this slows down performance.
+
+Button 5
+Random connections to unknown websites
+Another sign of an infection is when your computer tries to connect to a website you've never heard of. This may have been initiated by a piece of malware, such as a bot trying to connect to a server for instructions.
+
+Button 6
+Inability to download antivirus programs or updates
+Some computer viruses are programmed for self-preservation by stopping the download and installation of antivirus software or computer updates.
+
+Button 7
+Spam sent from your email address or social media
+This is a very common effect of malware, especially worms. Some malware is programmed to send random messages to your contacts list. This spreads an infection across the internet because are more likely to click on a message from someone they know. The way to stop this is to log out of your accounts, create strong new passwords and use security measures like two-factor authentication.
+
+Button 8
+Sudden lack of hard drive space
+Self-replicating viruses or worms can rapidly fill hard drives with copies of themselves.
+
+Button 9
+Computer stops functioning
+This is accomplished by ransomware, which encrypts the files until a ransom is paid.
+
+Slide 4
+Progress check
+Read the descriptions below '“ can you work out what is being described in each case? Type your answers into the boxes provided and then click to check your answers.
+
+Descriptions:
+Software that is designed to disable, damage or allow access to a system or network.
+A type of malicious code that looks like a legitimate piece of software, but contains malicious instructions.
+A type of malware that can spread copies of themselves without any human involvement.
+
+Answers:
+Software that is designed to disable, damage or allow access to a system or network. This is malicious software or malware.
+A type of malicious code that looks like a legitimate piece of software, but contains malicious instructions. This is a Trojan.
+A type of malware that can spread copies of themselves without any human involvement. This is a worm.
+
+Slide 5
+Motives for malicious software attacks
+Different types of attack may be used for different reasons. You can understand these reasons by considering what type of motive (or motives) a threat actor could have for carrying out different types of attack. Click on the flashcards below to learn more.
+
+Flashcard 1
+Virus
+These are used to damage system software or hardware, to steal information, cause physical damage or to hijack devices to launch DDoS or spam attacks.
+
+Flashcard 2
+Worms
+These are often used to steal data or to launch DDoS attacks using botnets.
+
+Flashcard 3
+Ransomware
+These attacks are used to collect a financial reward or to cause reputational damage.
+
+Flashcard 4
+Spyware
+Spyware is used to gather information that could help in a larger attack, or to steal money.
+
+Flashcard 5
+Trojans
+These are used for anything from stealing information to injecting ransomware or a bot to launch a DDoS attack.
+
+Slide 6
+Human factors can make attacks more effective
+Key term: '˜Two-factor authorisation' requires the use of two types of authorisation, such as a password and an email.
+As well as navigating to suspicious sites, clicking on links or opening email attachments from unknown senders, there are many other ways that human error can make attacks more effective.
+
+Tab 1
+Security patches
+This could include not downloading security patches as soon as they are released.
+
+Tab 2
+Passwords
+Choosing easily guessed passwords or using the same password for every site also makes things easier for attackers.
+
+Tab 3
+Shoulder surfing
+When people are working in public places, threat actors can 'œshoulder surf' or steal information over unsecured networks.
+
+Tab 4
+Human nature
+Threat actors also rely on human nature '” such as the desire to be helpful or creating a sense of panic, to get people to part with personal information.
+
+Tab 5
+Access rights
+Sometimes people also do things they know they are not supposed to, such as using their local administrator rights to disable security solutions on their computers.
+
+Tab 6
+Risky behaviour
+Other risky behaviours include:
+Downloading high numbers of programs.
+Installing unsigned and/or unique programs.
+Installing programs from unknown sources vendors.
+Accessing the web from unsecure locations.
+Not using two-factor authorisation.
+
+Slide 7
+Progress check
+Now let's take a look at a range of behaviours and decide whether or not they can make cyber-attacks more efficient. Choose a number and answer the question.
+
+Question 1
+Behaviour: Not downloading security patches as soon as they are released.
+Do you think this behaviour can make cyber-attacks more efficient?
+Answer: Yes, this behaviour can make cyber-attacks more efficient. For example, in 2017 the WannaCry ransomware worm targeted computers running the Microsoft Windows operating system by encrypting data and demanding ransom payments. Hundreds of thousands of computers in more than 150 countries were infected in a matter of hours and serious damage was done. However, Microsoft had been aware of the risk from this type of attack and had released a security patch two months earlier that could have prevented the attack, but many organisations had not updated their systems. More timely action could have prevented a lot of losses.
+
+Question 2
+Behaviour: Choosing easily guessed passwords.
+Do you think this behaviour can make cyber-attacks more efficient?
+Answer: Yes, this behaviour can make cyber-attacks more efficient. Many people use the same password for everything, use an easily guessed password, like PASSWORD, or leave their password written down near the computer.
+
+Question 3
+Behaviour: Working at home
+Do you think this behaviour can make cyber-attacks more efficient?
+Answer: No, this behaviour is unlikely to make cyber-attacks more efficient. This is because working at home is usually not any more dangerous than working at an office.
+
+Question 4
+Behaviour: Working in a public place
+Do you think this behaviour can make cyber-attacks more efficient?
+Answer: Yes, this behaviour can make cyber-attacks more efficient, especially if you are working on an unsecured network or not paying attention to possible risks.
+
+Question 5
+Behaviour: Checking to make sure an email or text is from a trusted source before clicking on a link.
+Do you think this behaviour can make cyber-attacks more efficient?
+Answer: We could answer '˜Yes' or '˜No' to this question. This is because this behaviour is not always a guarantee of safety '“ people that you trust can have their email and text accounts hijacked. To prevent this, you can use real life two-factor authentication '“ for example, phoning and asking the person who emailed you if they really did send the link.
+
+Question 6
+Behaviour: Holding the door open for people.
+Do you think this behaviour can make cyber-attacks more efficient?
+Answer: We could answer '˜Yes' or '˜No' to this question. In a public place this is polite behaviour, but if it is in a secure area of an office and you do not recognise the person, it could be risky.
+
+
+Slide 8
+Quiz: Question 1
+Select the correct term to match this description:
+'˜A malware program that encrypts your data and holds it as hostage. Victims need to pay something to get control back.'
+Adware.
+Trojan.
+Spyware.
+Ransomware.
+
+Correct answer: Ransomware.
+
+Slide 9
+Quiz: Question 2
+A Trojan attack can cause unexpected pop-up windows, such as adverts or fake warnings, to appear on screen without'¦
+Clicking.
+Warning.
+A close button.
+Sound.
+
+Correct answer: Warning.
+
+Slide 10
+Quiz: Question 3
+Is the following statement true or false?
+'˜Malware such as Trojans, spyware and adware can take up memory and power. This can help to improve performance.'
+True.
+False.
+
+Correct answer: False.
+
+Slide 11
+Quiz: Question 4
+Which one of the following is not likely to make cyber-attacks more efficient?
+Choosing easily guessed passwords.
+Working at home.
+Working in a public place.
+Not downloading security patches as soon as they are released.
+
+Correct answer: Working at home.
+
+Slide 12
+Quiz: Question 5
+Select the correct term to match this description:
+'˜This can be used by people who want to check on the computer activities of others. It can also be used to log the keystrokes of victims and learn passwords or other information.'
+Spyware.
+Adware.
+Ransomware.
+Hybrid.
+
+Correct answer: Spyware.
+
+Slide 13
+Confidence check
+During this Section, you have covered the following assessment criteria:
+3.1 Identify types of malicious software.
+3.2 Describe the effects of different types of malicious software on an infected system.
+3.3 Describe the motives for using specific malicious software attacks.
+3.4 Identify how specific malicious software attacks are made more effective due to human factors.
+
+Please make sure that you're confident with your learning in all of these areas before you move on.
+
+Slide 14
+Section complete
+Well done! You have completed Section 3: Understanding malicious software.
+In Section 4, you will learn all about social engineering

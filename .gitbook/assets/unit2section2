@@ -1,0 +1,240 @@
+NCFE Level 3 Certificate in Cyber Security Practices
+Unit 2: Threat intelligence in cyber security
+Section 2: Understanding threat models
+
+Slide 1
+What you’ll learn
+Welcome to Section 2: Understanding threat models.
+During this Section, you will cover the following assessment criteria:
+2.1 Describe a range of threat models.
+2.2 Explain the steps within a threat model.
+2.3 Evaluate a threat model.
+
+Slide 2
+Threat models
+Key term: A ‘threat model’ is used to evaluate the risk of a cyber-attack and decide what to prioritise in order to prevent or recover from an attack.
+Click the buttons below to learn about a range of threat models.
+
+Button 1
+STRIDE
+This model uses a detailed checklist to evaluate individual systems. The name STRIDE is an acronym for the types of threats it focuses on, which are:
+Spoofing.
+Tampering.
+Repudiation.
+Information disclosure.
+Denial of service (DoS).
+Escalation of Privilege.
+
+Security teams check how each of these areas could be exploited, and then plan ways to limit each threat.
+
+Button 2
+PASTA
+PASTA stands for Process for Attack Simulation and Threat Analysis.
+This model is designed to find out what security requirements are needed for particular business needs. It includes key decision makers, such as senior managers, and gathers information from different sources in the organisation, not just the security team.
+
+Button 3
+LINDDUN
+This model is used to assess and analyse privacy threats in 7 categories:
+Linkability.
+Identifiability.
+Non-repudiation.
+Detectability.
+Disclosure of information.
+Unawareness.
+Non-compliance.
+
+Button 4
+CVSS
+CVSS stands for Common Vulnerability Scoring System.
+This is a standardised threat scoring system used for vulnerabilities that are already known about.
+
+Button 5
+Attack Trees
+Attack trees are diagrams that show attacks on a system in the form of a tree.
+
+Button 6
+Security Cards
+Security Cards are a kind of brainstorming technique that uses a deck of specialised cards to help answer questions about a potential attack, such as:
+Who might attack?
+Why might the system be attacked?
+What assets are of interest?
+How could attacks take place?
+
+Slide 3
+Steps within a threat model
+Most threat models follow similar general steps – you can click on each button in the diagram below to learn more. Over the following pages, we will take a closer look at the specific steps involved in the LINDDUN, hTMM and PASTA threat models.
+
+Button 1
+1. Decompose and Diagram
+This involves understanding the basic parts and functions of a system that can affect security.
+
+Button 2
+2. Identify Common Threats and Vulnerabilities
+This stage narrows the list of potential threats to the ones most likely to occur.
+
+Button 3
+3. Mitigate and Counter
+These steps include making a detailed assessment of the threats and developing damage control policies.
+
+
+Slide 4
+Steps within the LINDDUN threat model
+Click the buttons to learn about the steps involved in the LINDDUN threat model.
+
+Button 1
+1. A diagram is created to show the flow of data in the system.
+
+Button 2
+2. Threats are mapped to each part of the system or data flow.
+
+Button 3
+3. Possible privacy threats are identified using threat trees.
+
+Button 4
+4. The threats are prioritised.
+
+Button 5
+5. Strategies are developed to fight each threat.
+
+Button 6
+6. Tools for fighting the threats are chosen and recommendations are developed.
+
+Slide 5
+Steps within the hTMM threat model
+Click the buttons to learn about the steps involved in the hTMM threat model.
+
+Button 1
+1. Identify the system to be modelled.
+
+Button 2
+2. Use Security Cards to help answer the questions of who is likely to attack, where they are likely to attack, and the reasons for the attack.
+
+Button 3
+3. Eliminate unlikely threat actors 
+
+Button 4
+4. Summarise the results using support tools.
+
+Button 5
+5. Use a formal risk assessment method to review evidence and identify potential risks.
+
+Slide 6
+Steps within the PASTA threat model
+Click the buttons below to learn about the steps involved in the PASTA threat model.
+
+Button 1
+1. Identify and define the objectives.
+
+Button 2
+2. Define the technical scope of assets and components: determine what you are trying to protect.
+
+Button 3
+3. Application decomposition and identification of application controls: the different parts of the system are studied in detail for weaknesses.
+
+Button 4
+4. Threat analysis: Identify potential threats and find out which ones are most likely to occur.
+
+Button 5
+5. Identify potential vulnerabilities and weaknesses.
+
+Button 6
+6. Attack simulation and modelling: The system is tested for the attacks at are considered most likely.
+
+Button 7
+7. Risk analysis and development of countermeasures: a report is created, setting out the risks and vulnerabilities and what can be done to prevent attacks.
+
+Slide 7
+Evaluate a threat model
+As you have seen, there are a lot of different ways to model threats. So, how do you evaluate the models to find out the best one to use? The model that you choose depends a lot on what you are using it for and where your team’s strongest skills are.
+
+Scenario:
+Imagine that you are working for a multi-national pharmaceutical company that makes and tests vaccines for different diseases. The company has thousands of employees, who all work in one of the company’s offices. The company has regular security training for its employees and a very experienced cyber security team who have been working together for many years.
+
+Reflective question:
+What type of threat model (or models) might be a good choice for this company to use and why? Consider your answer and then move on to the next page to learn more.
+
+Slide 8
+Evaluate a threat model
+Let’s assess the different models. Click the tabs to learn more.
+
+Tab 1
+STRIDE
+This model uses a detailed checklist of steps which works well when teams don’t have a lot of modelling experience. There are also lots of online tools and advice available, as well as companies that specialise in using them. So, if your organisation does not have a lot of experience with threat modelling, you might want to choose a model where there is a lot of help already available.
+
+Tab 2
+LINDDUN
+This model is highly structured and works well for teams that might not have a lot of modelling experience or when you need to analyse a wide variety of risks, rather than a specific risk.
+
+Tab 3
+PASTA
+This model includes stakeholders from across the organisation to understand how their goals are impacted by cyber security threats. So, this is a good method to use when you need to prioritise threats based on their effects on the business, or when determining the threat to a new product or service that you are developing.
+
+Tab 4
+CVSS
+This uses a standardised scoring system and so is a good choice for large organisations that need to calculate and compare the risk across different areas or divisions of the organisation.
+
+Slide 9
+Quiz: Question 1
+In threat models, PASTA stands for Process for Attack Simulation and Threat…
+Application.
+Adaptation.
+Acceptance.
+Analysis.
+
+Correct answer: Analysis.
+
+Slide 10
+Quiz: Question 2
+Which one of the following threat models is used to assess and analyse privacy threats in categories such as Detectability and Identifiability?
+STRIDE.
+LINDDUN.
+Attack Trees.
+Security Cards.
+
+Correct answer: LINDDUN.
+
+Slide 11
+Quiz: Question 3
+Most threat models follow similar general steps including Decompose and Diagram, Identify Common Threats and Vulnerabilities and…
+Research and Evaluate.
+Plan and Act.
+Defend and Attack.
+Mitigate and Counter.
+
+Correct answer: Mitigate and Counter.
+
+Slide 12
+Quiz: Question 4
+Which threat model is described below?
+This model uses a standardised scoring system and so is a good choice for large organisations that need to calculate and compare the risk across different areas or divisions of the organisation.
+STRIDE.
+CVSS.
+PASTA.
+LINDDUN.
+
+Correct answer: CVSS.
+
+Slide 13
+Quiz: Question 5
+Which threat model is described below?
+This model uses a detailed checklist of steps which works well when teams don’t have a lot of modelling experience.
+STRIDE.
+CVSS.
+PASTA.
+LINDDUN.
+
+Correct answer: STRIDE.
+
+Slide 14
+Confidence check
+During this Section, you have covered the following assessment criteria:
+2.1 Describe a range of threat models.
+2.2 Explain the steps within a threat model.
+2.3 Evaluate a threat model.
+
+Please make sure that you’re confident with your learning in all of these areas before you move on.
+
+Slide 15
+Section complete
+Well done! You have completed Section 2: Understanding threat models.
+In Section 3, you will learn all about malicious software.

@@ -1,0 +1,175 @@
+NCFE Level 3 Certificate in Cyber Security Practices
+Unit 2: Threat intelligence in cyber security
+Section 4: Social engineering
+
+Slide 1
+What you’ll learn
+Welcome to Section 4: Social engineering.
+During this Section, you will cover the following assessment criteria:
+4.1 Explain the term 'social engineering’.
+4.2 Give examples of how Open Source Intelligence can be used for social engineering.
+4.3 Describe ways a social engineering attack could take place.
+
+Slide 2
+What is social engineering?
+Click the tabs to learn about social engineering.
+
+Tab 1
+What is social engineering?
+Social engineering is an attack that involves manipulating people into breaking normal security procedures in order to gain access to systems, networks or physical locations, often for financial gain.
+
+Tab 2
+Why do criminals use social engineering tactics?
+Criminals use social engineering tactics because it is usually easier to exploit people’s willingness to trust someone than it is to discover ways to hack software. For example, it is much easier to fool someone into giving you their password than it is for you to try hacking their password. 
+
+Tab 3
+How does social engineering work?
+The criminals who carry out social engineering exploit the one weakness that is found in every person and organisation: human psychology. Using phone calls, emails, text messages, or other means, these attackers trick people into handing over access to sensitive information.
+
+Slide 3
+Using OSINT in social engineering
+OSINT is used as an abbreviation for open source intelligence; this is information that comes from sources that are available to the general public. Let’s explore how open source intelligence can be used in social engineering. Click on the buttons below to find out more.
+
+Button 1
+Gathering information
+Threat actors gather information about their targets using OSINT and use it in order to make the attack look as legitimate as possible.
+Once attackers have the name of a target, they can use OSINT sources to find out more details about the person: hobbies, interests, family, events, trips. They can analyse photos for metadata, or even work out where they like to go and what hobbies and interests they have.
+The more details the attackers have, the easier it is to convince them to hand over personal information.
+Click on the flashcards to learn more.
+
+Flashcard 1
+Using OSINT sources
+Attackers have the name of a target, they can look up that person on social media sites to find out more details about the person: hobbies, interests, family, events, trips. This step is also called doxing.
+
+Flashcard 2
+Using social media
+Another tactic is to connect to the victim on sites like Facebook, Instagram, LinkedIn and Twitter; perhaps sending a polite note with the connection request, pretending to be a work colleague or someone with a common interest. Once the attacker has access to the victim’s social media, they can learn even more.
+
+Button 2
+Reverse social engineering
+In reverse social engineering, the attacker uses OSINT to manipulate the victim into contacting them.
+Click the flashcards below to learn more.
+
+Flashcard 1
+Domain squatting
+This is when an attacker sets up a website that looks just like a site the victim uses often but has a very slightly different name. When victims enter their username and password into the fake site, it is copied, and the victims are redirected to the real site, so they never know their information has been stolen.
+
+Flashcard 2
+DNS poisoning
+In DNS poisoning, the attacker compromises the victim’s DNS server and replaces the IP address for a commonly-used website with that of a fake, look-alike site. In another variant, called a visitor tracking attack, the attacker attracts the victim’s notice by posting repeatedly on the victim’s social media site until the victim becomes curious and visits the attacker’s malicious site. As you can imagine, there are hundreds of variations of reverse social engineering.
+
+Button 3
+Automated social engineering
+Increasingly, social engineers have turned to automation to influence others. Click the flashcards below to find out more.
+
+Flashcard 1
+Sybil attack
+This is a social media attack in which bots are used to create many different online personas who post predetermined responses to certain subjects. These then flood a social media space with particular opinions and commentary. Over time, real humans on the site find that their opinions, political views, etc. are now in the minority, and begin to shift their views to the manipulated “group consensus”.
+
+Flashcard 2
+Social media bots
+An attacker may increase the likelihood of a victim clicking on a malicious link by using social media bots to post favourable opinions about the link.
+
+Flashcard 3
+Honeybots
+In a honeybot, or bot-in-the-middle attack, the attacker programs a bot to enter a social network and begin a discussion with at least two members, where the bot passes questions and replies back and forth between the two users whilst the users do not know they are interacting through a third party. The goal is to gather information, insert a malicious link into the flow of the conversation, or shift the subject of conversation in a direction desired by the attacker.
+
+Slide 4
+Ways a social engineering attack can take place
+Once OSINT is gathered, it’s time to use it in a social engineering attack. The goal in most attacks is to trick people into handing over passwords, bank details or other information that can give a threat actor access to the systems used by an individual or organisation. Click the buttons to learn about different ways that a social engineering attack could take place.
+
+Button 1
+Baiting
+Baiting attacks use a false promise to lure users into a trap that steals their personal information or inflicts their systems with malware. The bait could include a promise of money, an ad enticing a victim to a malicious website or encouraging users to download malware-infected apps, or even leaving malware-infected flash drives (perhaps labelled as something interesting) in areas where potential victims will see them and be curious enough to insert the infected drive into their computer.
+
+Button 2
+Pretexting
+This is when an attacker obtains information through a series of cleverly crafted lies. The attacker establishes trust by impersonating co-workers, police, bank and tax officials, or other people who have authority. The pretexter asks questions that they claim are required to confirm the victim’s identity, but which are actually used to gather important personal data.
+
+Button 3
+Phishing
+There are thousands of ways that phishing scams can take place. One example is an email or text sent to users of an online service that alerts them of a policy violation requiring immediate action on their part, such as a required password change. The email or text includes a link to a fake website which is nearly identical in appearance to its legitimate version. The victim enters their current credentials and new password, giving the attacker access to the real account.
+
+Button 4
+Spear phishing
+This uses a more targeted attack and usually requires more OSINT and time to pull off. It’s also much harder to detect and has better success rates if done skillfully. A spear phishing scenario might involve an attacker who impersonates an organisation’s IT consultant and sends an email to one or more employees asking them to change their password. The email will include a link that redirects them to a malicious page where the attacker can then capture their credentials. These can then be used to log into the organisation’s systems and steal data.
+
+Button 5
+Impersonation
+Many social engineering attacks do not involve technology at all. One type of in-person social engineering attack is impersonation, when an attacker takes on or spoofs the identity of someone else in order to gain access to a computer system, a server room, a secure vault, or to elicit information from their victim. 
+
+Button 6
+Spoofing
+An attacker might also use a simple smartphone application to spoof the location of their call as if they were inside an organisation. The attacker could then call a member of the organisation’s staff, pretending to be part of the IT department, and ask the victim to allow them to remotely access their machine in order to make a routine security update. 
+
+Button 7
+Tailgating
+Tailgating involves taking advantage of the social custom of holding the door open for someone, to gain access to rooms and buildings. Assuming the timing is right and the attacker looks unthreatening, most people will fall victim to this. This is particularly true if the attacker’s hands are full, so they can’t open the door themselves. Another form of tailgating uses the principle of reciprocity – the attacker will hold open an outer door to a building for an employee, then hang back while the employee holds open the secure inner doors to return the favour.
+
+Button 8
+Shoulder surfing
+Shoulder surfing is also a common in-person attack – this is simply looking over the shoulder of a victim to see information on their computer screen, or view their keypad as they type. People using their phones or computers in public are particularly susceptible to this, because they may not be paying attention to those near them. 
+
+Slide 5
+Quiz: Question 1
+Is the following statement true or false?
+'Social engineering involves using phone calls, emails or text messages to trick people into handing over access to sensitive information.’
+True.
+False.
+
+Correct answer: True.
+
+Slide 6
+Quiz: Question 2
+When an attacker has the name of a target and then uses the name to look the person up on social media in order to find out more details about them, this is known as…
+Socialising.
+Stalking.
+Engineering.
+Doxing.
+
+Correct answer: Doxing.
+
+Slide 7
+Quiz: Question 3
+When an attacker uses OSINT to manipulate the victim into contacting them, this is known as…
+Automated social engineering.
+Reverse social engineering.
+Pretexting.
+Tailgating.
+
+Correct answer: Reverse social engineering.
+
+Slide 8
+Quiz: Question 4
+Select the correct term to match this description:
+'This is an attack which uses a false promise to lure users into a trap that steals their personal information or inflicts their systems with malware.’
+Tailgating.
+Baiting.
+Phishing.
+Pretexting.
+
+Correct answer: Baiting.
+
+Slide 9
+Quiz: Question 5
+Select the correct term to match this description:
+'This involves attempting to gain access to secure rooms or buildings by taking advantage of the social custom of holding the door open for someone.’
+Tailgating.
+Spoofing.
+Impersonation.
+Phishing.
+
+Correct answer: Tailgating.
+
+Slide 10
+Confidence check
+During this Section, you have covered the following assessment criteria:
+4.1 Explain the term 'social engineering’.
+4.2 Give examples of how Open Source Intelligence can be used for social engineering.
+4.3 Describe ways a social engineering attack could take place.
+
+Please make sure that you’re confident with your learning in all of these areas before you move on.
+
+Slide 11
+Section complete
+Well done! You have completed Section 4: Social engineering. This is the final Section in this Unit.

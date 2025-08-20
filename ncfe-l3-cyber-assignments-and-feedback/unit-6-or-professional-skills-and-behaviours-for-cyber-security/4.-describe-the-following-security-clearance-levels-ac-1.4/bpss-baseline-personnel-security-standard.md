@@ -1,0 +1,3 @@
+# BPSS (Baseline Personnel Security Standard)
+
+The [BPSS ](https://www.gov.uk/government/publications/united-kingdom-security-vetting-clearance-levels/national-security-vetting-clearance-levels)is the minimum level of security clearance. BPSS is comparable to the basic BPSS in the way that there are numerous other checks that build on the information found in this check. This screening is for individuals with any access to government assets(basically everything the government own). A BPSS will verify your identity, right to work in the UK, employment history and criminal records - unspent convictions only. An [example of BPSS form.](https://assets.publishing.service.gov.uk/media/5a7b257940f0b66eab99f4b1/baseline-personnel-security.pdf)

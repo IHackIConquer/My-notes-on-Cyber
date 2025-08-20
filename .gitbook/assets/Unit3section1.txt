@@ -1,0 +1,333 @@
+NCFE Level 3 Certificate in Cyber Security Practices
+Unit 3: Cyber security testing, vulnerabilities and controls
+Section 1: Common types of testing in cyber security
+
+Slide 1
+What you’ll learn
+Welcome to Section 1: Common types of testing in cyber security.
+During this Section, you will cover the following assessment criteria:
+1.1 Explain different types of cyber security testing.
+1.2 Identify why cyber security testing is important.
+1.3 Compare types of cyber security testing.
+1.4 Consider mitigations following cyber security testing.
+1.5 Explain why it is important to retest following any changes made.
+1.6 Explain how the outcomes of cyber security testing can be reported.
+1.7 Explain why the outcomes of cyber security testing must be reported.
+
+Slide 2
+Different types of cyber security testing
+There are many different types of cyber security testing. Click the tabs below to explore some examples.
+
+Tab 1
+Vulnerability scanning
+Uses automated software to scan for and find system vulnerabilities.
+
+Tab 2
+Security scanning
+Uses both automated software and manual tools in order to assess the general security level of a system by detecting weak points and loopholes.
+
+Tab 3
+Social engineering testing
+Testers attempt social engineering scams on employees to find vulnerabilities. Used to test employees’ use of security policies and practices.
+
+Tab 4
+Penetration testing
+Involves simulating a cyber attack in order to check for vulnerabilities. The two most common forms are application penetration testing, which aims to detect technical vulnerabilities, and infrastructure penetration testing which examines servers, firewalls, and other hardware.
+
+Tab 5
+Ethical hacking/red teaming
+A simulation test in which a hacker or group of hackers tries to break into a system or network in order to test how well a system and a team respond to an attack.
+
+Slide 3
+Progress check
+Consider which types of test you would use for the following. You can see a reminder of the test options on the right – you may decide to use more than one type of test in some cases.
+
+The test options are:
+•	Vulnerability scanning.
+•	Security scanning.
+•	Social engineering testing.
+•	Penetration testing.
+•	Ethical hacking/red teaming.
+
+1. To check for viruses or malware.
+
+2. To see if more employee training is needed.
+
+3. To check for vulnerability to phishing scams.
+
+4. To find ways for a hacker to break into an organisation’s system.
+
+5. To find out how well or how fast an organisation responds to an attack.
+
+Answers:
+1. To check for viruses or malware. Penetration testing or security scanning.
+
+2. To see if more employee training is needed. Social engineering testing.
+
+3. To check for vulnerability to phishing scams. Penetration/social engineering testing, red teaming, vulnerability scanning.
+
+4. To find ways for a hacker to break into an organisation’s system. Penetration testing, red taming or vulnerability scanning.
+
+5. To find out how well or how fast an organisation responds to an attack. Red teaming.
+
+Slide 4
+Why is cyber security testing important?
+Cyber security testing is an important tool to help identify hidden weaknesses or vulnerabilities before malicious attackers can find them.
+
+Businesses often carry out cyber security testing after installing new apps and infrastructure, in order to make sure the new systems are secure.
+
+By identifying areas of weakness, organisations can prioritise and handle risks more effectively.
+
+Slide 5
+Progress check
+Which of these are not valid reasons for organisations to carry out cyber security testing? You can tick to select multiple correct answers.
+
+To identify hidden weaknesses or vulnerabilities.
+To demonstrate compliance with data protection laws.
+To make sure new systems are secure.
+To prioritise risks.
+To save money by protecting against ransomware attacks.
+To learn about attacks that you can use against others.
+To build trust and confidence in your organisation.
+To help you to sell more products.
+
+Answer:
+The only two options in the list which are not reasons for carrying out cyber security testing are 'To learn about attacks that you can use against others’ and 'To help you to sell more products’.
+
+Slide 6
+Comparing types of cyber security testing
+Click the flashcards to compare the features of different types of cyber security testing.
+
+Flashcard 1
+Penetration testing
+A pen test is best for when an organisation wants to focus on testing for specific vulnerabilities in a new system or project, or has a particular of concern.
+
+Flashcard 2
+Vulnerability scanning
+This is often used for checking systems that face the internet, like corporate web servers, virtual private network endpoints and office internet connections. It is less useful for testing against human attackers – pen tests are more useful for that.
+
+Flashcard 3
+Red teaming
+A red team exercise is used when you want to see, as closely as possible, how real attackers would act against you. It is a high-level test designed for specific situation.
+
+Flashcard 4
+Social engineering testing
+Social engineering testing can pick up vulnerabilities in areas that are not covered in other types of testing, especially in automated tests.
+
+Slide 7
+Pros and cons of testing options
+Complete the table by typing in examples of pros and cons for each of the testing options:
+
+Pen testing
+Red team testing
+Vulnerability testing
+Social engineering testing
+
+Answers:
+
+Pen testing
+Pros:
+Can identify a wide range of vulnerabilities.
+Can identify risks from smaller vulnerabilities.
+Reports will provide specific advice.
+
+Cons:
+If not done right, it can cause damage.
+You need to trust the tester.
+If you don’t use realistic test conditions, the results can be misleading.
+
+Red team testing
+Pros:
+A good way to test the ability of an IT team or Security Operation Centre (SOC).
+Useful for large organisations.
+Builds a picture of how real attackers work.
+
+Cons:
+Not useful for finding all vulnerabilities.
+High cost.
+
+Vulnerability scanning
+Pros:
+Regular scans can tell you how effective your security is.
+Saves time and money.
+Helps meet data protection requirements.
+Can quickly highlight problems that might have been missed.
+
+Cons:
+You won’t find every vulnerability.
+Can give false positives.
+
+Social engineering testing
+Pros:
+Prepares for a common type of attack.
+Helps employees.
+
+Cons:
+Focuses only on social engineering attacks.
+Can be out of date.
+
+Slide 8
+Mitigations following cyber security testing
+Key term: Mitigations are actions that respond to any risks that were found during testing.
+Conducting cyber security testing is only one step in the process of safeguarding an organisation, system or network. Testing must also be followed up with mitigations.
+Click the buttons below to find out what these mitigations could include.
+
+Button1
+Catching potential issues
+Prevent future attacks with patching, malware protection, two-factor authentication, firewalls, passwords and secure configuration.
+
+Button 2
+User access control
+Limit users’ execution permissions so that users only have permissions to access certain files and folders, rather than every file and folder in the system.
+
+Button 3
+High availability first
+Implement the strategy for high risk users and computers first.
+
+Button 4
+Escalation
+Stop threats quickly and early before they can lead to stolen information or other types of attacks.
+
+Button 5
+Staff training
+Security awareness training can create a culture of security, reduce human error and demonstrate compliance with regulatory laws.
+
+Slide 9
+Activity
+
+Scenario:
+You are in charge of security for an organisation that sells insurance online. The organisation is concerned about security, since it holds financial and personal details of all its customers.
+You have been asked to create a plan to mitigate any future problems that might come up. Detail what steps you would include in your plan.
+Type your thoughts into the box provided.
+
+Suggested answer:
+The plan could include the following:
+Conduct security testing to find any issues.
+Limit user access control by making sure that only those who need access at every level are given access.
+Conduct regular updates of all software.
+Have a plan in place that clearly sets out what to do in the event of a breach.
+Conduct regular staff training to make sure everyone understands how to limit risks.
+
+Slide 10
+The importance of retesting following changes
+Why do you think it is important to retest following any changes made to a system or network?
+Type your thoughts into the box below.
+
+Suggested answer:
+Any change made to a system or network runs the risk of creating new vulnerabilities. This is why it is important to retest for vulnerabilities after any changes are made. This is called remediation, or remediation verification testing.
+Remediation verification testing makes sure that any vulnerabilities have been successfully dealt with, and provides independent confirmation that measures taken to fix the problem do in fact work.
+
+Slide 11
+Reporting outcomes of cyber security testing
+There are many ways to report the outcomes of cyber security testing. The most common is in a detailed report to senior management. For small, regularly conducted tests, such as scheduled malware scans, outcomes may be reported in a shorter format, such as a memo, incident log or in a short report. White hat hackers who uncover software bugs or zero day issues may also report their findings to the software developer – some developers have an online form or procedure for doing this.
+However, most of the time, writing a testing report will be one of the most critical tasks performed by a security tester or ethical hacker.
+These reports may be reviewed by senior management teams, IT teams, clients, or regulators, and it is important that they are written clearly and set out the details of any problems and recommended solutions in a logical way.
+Click the sections of the report to learn more.
+
+Button 1
+1. Executive summary
+Bullet list of main points, graph or chart, introduction paragraph.
+
+Button 2
+2. Security risks
+Discussion of security risks that were found
+Raw data, types of test performed, how tests were performed, and a summary of the data, likelihood of each type of attack, possible impact of each vulnerability, any deviations from security best practice which may pose a greater threat in future.
+
+Button 3
+3. Remediation measures
+Discussion of remediation measures
+This section will outline the recommendations for remediation.
+
+Button 4
+4. Strategic recommendations
+Appraisal of existing security controls, feedback about operational procedures, guidance on future security investments.
+
+Slide 12
+The importance of reporting test outcomes
+In the table below, give details under each heading about how and why reporting test outcomes are important for each of these reasons.
+
+Ethical reasons
+Regulatory reasons
+Reputational reasons
+
+Answers:
+
+Ethical reasons
+For ethical hackers and cyber security contractors, there are ethical reasons for reporting the outcomes of cyber security testing – if they are not reporting the outcomes, then the hacking is not ethical. In some cases, white hat hackers may also receive a 'bug bounty’ from the software developer for any issues that they uncover.
+
+Regulatory reasons
+Organisations may need to demonstrate to authorities that they are taking steps to find and eliminate any vulnerabilities. This is especially important if an organisation has had a data breach and is trying to avoid a large fine for a breach of GDPR laws, or is required to conduct testing by a regulator as a result of the breach.
+
+Reputational reasons
+Reporting test results is also a way that organisations can re-establish trust following a breach. It can reassure clients and customers that the organisation is both safe and serious about preventing future attacks. For the organisation itself, knowing the outcome of the test can help them to better plan and allocate resources to prevent future threats.
+
+Slide 13
+Quiz: Question 1
+Which one of the following is not a type of cyber security testing?
+Penetration testing.
+Security scanning.
+Ethical hacking.
+Black teaming.
+
+Correct answer: Black teaming.
+
+Slide 14
+Quiz: Question 2
+Select one option to complete this sentence:
+'Cyber security testing is an important tool to help identify hidden vulnerabilities before ____________ attackers can find them.’
+Internal.
+Data.
+Malicious.
+Social.
+
+Correct answer: Malicious.
+
+Slide 15
+Quiz: Question 3
+Here is a pro and a con of a testing option – can you identify which testing option they relate to?
+Pro: Builds a picture of how real attackers work.
+Con: High cost
+Red team testing.
+Penetration testing.
+Vulnerability testing.
+Social engineering testing.
+
+Correct answer: Red team testing.
+
+Slide 16
+Quiz: Question 4
+Select one option to complete this sentence:
+'Conducting cyber security testing is only one step in the process of safeguarding an organisation, system or network. Testing must be followed up with ____________.’
+More testing.
+Mitigations.
+Restructuring.
+An executive summary.
+
+Correct answer: Mitigations.
+
+Slide 17
+Quiz: Question 5
+Is the following statement true or false?
+'Examples of mitigations in response to risks found during testing include staff training and limiting user access control.’
+True.
+False.
+
+Correct answer: True.
+
+Slide 18
+Confidence check
+During this Section, you have covered the following assessment criteria:
+1.1 Explain different types of cyber security testing.
+1.2 Identify why cyber security testing is important.
+1.3 Compare types of cyber security testing.
+1.4 Consider mitigations following cyber security testing.
+1.5 Explain why it is important to retest following any changes made.
+1.6 Explain how the outcomes of cyber security testing can be reported.
+1.7 Explain why the outcomes of cyber security testing must be reported.
+
+Please make sure that you’re confident with your learning in all of these areas before you move on.
+
+Slide 19
+Section complete
+Well done! You have completed Section 1: Common types of testing in cyber security.
+In Section 2, you will learn all about reducing or removing potential cyber security vulnerabilities.

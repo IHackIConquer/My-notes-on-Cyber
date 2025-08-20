@@ -1,0 +1,324 @@
+NCFE Level 3 Certificate in Cyber Security Practices
+Unit 3: Cyber security testing, vulnerabilities and controls
+Section 3: Controls in cyber security
+
+Slide 1
+What you'll learn
+Welcome to Section 3: Controls in cyber security.
+During this Section, you will cover the following assessment criteria:
+3.1 Identify cyber security controls.
+3.2 Explain a basic cyber security framework.
+3.3 Evaluate a cyber security framework.
+
+Slide 2
+Cyber security controls
+Key term: Cyber security controls are systems used to protect data and infrastructure that is important to an organisation. Any type of safeguard or countermeasure used to avoid, detect, counteract, or minimise security risks to physical property, information, computer systems, or other assets can be considered a security control.
+
+Let's explore some examples of cyber security controls. Click the tabs to learn more.
+
+Tab 1
+Encryption
+This is used to protect the confidentiality of data.
+
+Tab 2
+Antivirus software
+Once installed, this provides protection against malware infection.
+
+Tab 3
+Intrusion detection systems
+These are automated systems that monitor a network or host for intrusions and provide ongoing protection against various threats.
+
+Tab 4
+Least privilege
+This specifies that individuals or processes are granted only the privileges they need to perform their assigned tasks or functions, but no more.
+
+Tab 5
+Multi-factor authentication
+An electronic authentication method in which a device user is granted access to a website or application only after successfully presenting two or more pieces of evidence to an authentication mechanism, such as a username, a password, and a physical token or code.
+
+Tab 6
+Audit trail
+This is when a web server records IP addresses and URLs for each access and retains the information for a period of time.
+
+Slide 3
+Cyber security controls
+Let's continue and explore more examples of cyber security controls. Click the tabs to learn more.
+
+Tab 1
+Patch management
+This involves setting up automatic and regular updates for all software and firmware.
+
+Tab 2
+Network perimeter defences
+These will protect networks from attacks executed through the internet. They can include firewalls, which filter network traffic and allow network administrators to restrict access to websites deemed malicious; secure connectivity such as virtual private networks, which hide all online user activities from potential attackers; separating public Wi-Fi from the organisation's network; and using appropriate controls for securing credit card information belonging to customers.
+
+Tab 3
+Using an Enterprise Mobility Management system on mobile devices
+These allow organisations to centrally manage mobile devices, including the ability to wipe the data of stolen or compromised devices remotely.
+
+Tab 4
+Employee training and awareness programmes
+This could include password management policies, and training in secure use of social media.
+
+Tab 5
+Access controls
+These are the strategies organisations use to provide authenticated users access to IT resources. This includes determining which users can access which resource and at what level. For example, a CEO would be able to access more data than a department manager.
+
+Tab 6
+Encrypt and backup all data
+Backing up data every day protects the permanent loss of data and can minimise the effects of a data breach. Backups should be protected using encryption and should be stored in multiple external locations, such as the Cloud.
+
+Slide 4
+Cyber security frameworks – CIS
+The Centre for Internet Security (CIS) developed a list of 18, high-priority actions that provide a starting point for organisations to develop a cyber security framework.
+The CIS framework includes controls for understanding what people, software, or devices could have access to your organisation or to customer data; protecting the assets that organisations use to operate; and organisational security processes such as awareness, preparedness, and incident response.
+The framework is divided into three Implementation Groups (IGs). Each IG identifies a set of Safeguards that organisations need to implement. There are a total of 153 Safeguards, divided up into 18 groups of Controls.
+Click the button below to download an information sheet all about the 18 Controls in the CIS framework.
+
+Button
+Download information sheet
+
+The 18 Controls in the CIS framework are:
+
+CIS Control 1: Inventory and Control of Enterprise Assets
+Actively manage (inventory, track, and correct) all enterprise assets (end-user devices, including portable and mobile; network devices; non-computing/Internet of Things (IoT) devices; and servers) connected to the infrastructure physically, virtually, remotely, and those within cloud environments, to accurately know the totality of assets that need to be monitored and protected within the enterprise. This will also support identifying unauthorised and unmanaged assets to remove or remediate.
+
+CIS Control 2: Inventory and Control of Software Assets
+Actively manage (inventory, track, and correct) all software (operating systems and applications) on the network so that only authorized software is installed and can execute, and that unauthorized and unmanaged software is found and prevented from installation or execution.
+
+CIS Control 3: Data Protection
+Develop processes and technical controls to identify, classify, securely handle, retain, and dispose of data.
+
+CIS Control 4: Secure Configuration of Enterprise Assets and Software
+Establish and maintain the secure configuration of enterprise assets (end-user devices, including portable and mobile; network devices; non-computing/IoT devices; and servers) and software (operating systems and applications).
+
+CIS Control 5: Account Management
+Use processes and tools to assign and manage authorization to credentials for user accounts, including administrator accounts, as well as service accounts, to enterprise assets and software.
+
+CIS Control 6: Access Control Management
+Use processes and tools to create, assign, manage, and revoke access credentials and privileges for user, administrator, and service accounts for enterprise assets and software.
+
+CIS Control 7: Continuous Vulnerability Management
+Develop a plan to continuously assess and track vulnerabilities on all enterprise assets within the enterprise's infrastructure, in order to remediate, and minimize, the window of opportunity for attackers. Monitor public and private industry sources for new threat and vulnerability information.
+
+CIS Control 8: Audit Log Management
+Collect, alert, review, and retain audit logs of events that could help detect, understand, or recover from an attack.
+
+CIS Control 9: Email Web Browser and Protections
+Improve protections and detections of threats from email and web vectors, as these are opportunities for attackers to manipulate human behaviour through direct engagement.
+
+CIS Control 10: Malware Defences
+Prevent or control the installation, spread, and execution of malicious applications, code, or scripts on enterprise assets.
+
+CIS Control 11: Data Recovery
+Establish and maintain data recovery practices sufficient to restore in-scope enterprise assets to a pre-incident and trusted state.
+
+CIS Control 12: Network Infrastructure Management
+Establish, implement, and actively manage (track, report, correct) network devices, in order to prevent attackers from exploiting vulnerable network services and access points.
+
+CIS Control 13: Network Monitoring and Defence
+Operate processes and tooling to establish and maintain comprehensive network monitoring and defence against security threats across the enterprise's network infrastructure and user base.
+
+CIS Control 14: Security Awareness and Skills Training
+Establish and maintain a security awareness programme to influence behavior among the workforce to be security conscious and properly skilled to reduce cybersecurity risks to the enterprise.
+
+CIS Control 15: Service Provider Management
+Develop a process to evaluate service providers who hold sensitive data, or are responsible for an enterprise's critical IT platforms or processes, to ensure these providers are protecting those platforms and data appropriately.
+
+CIS Control 16: Application Software Security
+Manage the security life cycle of in-house developed, hosted, or acquired software to prevent, detect, and remediate security weaknesses before they can impact the enterprise.
+
+CIS Control 17: Incident Response Management
+Establish a programme to develop and maintain an incident response capability (e.g., policies, plans, procedures, defined roles, training, and communications) to prepare, detect, and quickly respond to an attack.
+
+CIS Control 18: Penetration Testing
+Test the effectiveness and resiliency of enterprise assets through identifying and exploiting weaknesses in controls (people, processes, and technology), and simulating the objectives and actions of an attacker.
+
+Slide 5
+Cyber security frameworks – NCSC
+The NCSC 10-step framework is a guide designed to help organisations of all sizes to improve their cyber security. It was originally developed in 2012 and is now used by a large number of organisations. The 10 elements are designed to guide organisations in developing their own cyber security regime.
+Click the numbered icons below to see the 10 steps in this framework.
+
+Button 1
+1. Risk management regime
+The first step is for organisations to understand the risks they face so they can prioritise the biggest threats.
+
+Button 2
+2. Secure configuration
+In this step, organisations should ensure they remove or disable unnecessary functionality from systems and address known vulnerabilities.
+
+Button 3
+3. Home and mobile working
+Organisations should develop a plan for managing remote working, including limiting access to sensitive systems and creating policies for protecting laptops, removable devices and physical information outside the office.
+
+Button 4
+4. Incident management
+Organisations should establish policies and procedures to help mitigate any damage that might occur from a breach and to outline the steps needed to get back up and running as quickly as possible.
+
+Button 5
+5. Malware prevention
+To mitigate risks from all types of malware, organisations should use anti-malware software, and develop policies designed to help prevent employees from falling victim to phishing scams and other attacks that seek to install malware on networks and systems.
+
+Button 6
+6. Managing user privileges
+Organisations must create access controls to ensure that employees can only access information that's relevant to their job.
+
+Button 7
+7. Monitoring
+System monitoring enables organisations to detect attempted attacks.
+
+Button 8
+8. Network security
+Organisations should be aware of all the connections between their networks and the Internet and remove as many vulnerabilities in these connections as they can with architectural changes, such as by inserting firewalls.
+
+Button 9
+9. Removable media controls
+Organisations should create policies emphasising the need to keep removable devices, such as USBs, in a secure location at all times.
+
+Button 10
+10. User education and awareness
+Organisations should implement regular employee training, from introductory e-learning to classroom-based certification courses, to ensure that all employees are aware of the steps they need to take to reduce the risk of cyber-crime.
+
+Slide 6
+Cyber security frameworks – NIST CSF
+This is a programme framework. It was established in 2013 by an international partnership of small and large organisations, led by the U.S. National Institute of Standards and Technology (NIST). It was designed to help individual businesses and other organisations assess the business risks they faced and to help them develop a framework in a cost-effective way.
+The framework is divided into three parts. Click the buttons below to find out more.
+
+Button 1
+1. Framework Core
+This is a set of activities, outcomes and references that detail approaches to aspects of cyber security. It is made up of five functions, which are subdivided into 22 categories (groups of cyber security outcomes) and 108 subcategories (security controls).
+The five functions are:
+1. Identify.
+2. Protect.
+3. Detect.
+4. Respond.
+5. Recover.
+The 22 categories cover different cyber security objectives, while the subcategories focus on areas to consider when creating or improving a cyber security programme. Each subcategory includes information to help organisations develop that subcategory.
+
+Button 2
+2. Framework Implementation Tiers
+These describe how much an organisation's cyber security practices comply with the best practices that are defined in the Framework.
+The Tiers range from Partial (Tier 1) to Adaptive (Tier 4). So, each subcategory would be assigned a tier. The goal of this step is for the organisation to understand the areas it needs to focus on.
+
+Button 3
+3. Framework Profiles
+This is a list of outcomes that an organisation has chosen from the categories and subcategories, based on its business needs and individual risk assessments.
+One way of using the profile is for an organisation to set out their current cyber security practices and their goals for cyber security, and match these against the subcategories of the Framework Core to learn more about what they need to do to achieve their goals.
+
+Slide 7
+Evaluating a cyber security framework
+There are three broad types of security frameworks – you can click on each button in the diagram below to learn more.
+
+Button 1
+1. Control frameworks
+These are often used when an organisation is relatively new to cyber security and needs a basic set of security controls. Control frameworks are suitable when an organisation needs to:
+* Identify a baseline set of controls.
+* Assess its basic technical capabilities.
+* Prioritise the implementation of controls.
+* Develop an initial roadmap for the security team.
+
+Button 2
+2. Programme frameworks
+These are most often used to:
+* Assess the state of the overall security programme.
+* Build a comprehensive security programme.
+* Measure the maturity of the security system and conduct industry comparisons.
+* Simplify communications with business leaders.
+
+Button 3
+3. Risk frameworks
+These focus on risk and prioritise security. They are used when organisations need to:
+* Define key process steps for assessing and managing risk.
+* Structure the risk management programme.
+* Identify, measure, and quantify risk.
+* Prioritise security activities.
+
+Slide 8
+Progress check
+Click on each of the numbers below to read a case study and consider whether the organisation should use a control framework, a programme framework or a risk framework.
+
+Case Study 1
+A small organisation that sells used shoes online has just started up. They have 15 employees and need to develop a security framework.
+Which framework do you think this organisation should use?
+
+Answer:
+A control framework would be the most suitable framework for this organisation. It is a small business, which has just started up and control frameworks are often used when an organisation is relatively new to cyber security.
+
+Case Study 2
+A large, international company that manufactures cars has been using a security framework for many years. Recently they have become aware of new types of risk that are particular to its business, and of some areas that the existing security system does not cover very well. These could cost the company a lot of money if a data breach occurred.
+Which framework do you think this organisation should use?
+
+Answer:
+A risk framework would be the most suitable framework for this organisation. A risk framework will focus on risk and prioritise security; it will help the organisation to identify, assess and manage new types of risk.
+
+Case Study 3
+A mid-sized company that manufactures vegan sweets to a secret recipe has around 150 employees. They have been using basic cyber security measures, but the CEO is concerned that these are not enough and they need a more comprehensive security programme.
+Which framework do you think this organisation should use?
+
+Answer:
+A programme framework would be the most suitable framework for this organisation. It will help the organisation to assess overall security and build a more comprehensive security programme.
+
+Slide 9
+Quiz: Question 1
+Which one of the following options is not an example of a cyber security control?
+Encryption.
+Antivirus software.
+Patch management.
+Tailgating.
+
+Correct answer: Tailgating.
+
+Slide 10
+Quiz: Question 2
+The NCSC 10-step framework is a guide designed to help organisations of all sizes to improve their…
+Social media profile.
+Cyber security.
+Staff retention.
+Profitability.
+
+Correct answer: Cyber security.
+
+Slide 11
+Quiz: Question 3
+Select the correct term to match this description:
+'These are often used when an organisation is relatively new to cyber security and needs a basic set of security controls.'
+Programme frameworks.
+Control frameworks.
+Risk frameworks.
+Security frameworks.
+
+Correct answer: Control frameworks.
+
+Slide 12
+Quiz: Question 4
+Select the correct term to match this description:
+'These are most often used to assess the state of the overall security programme and to simplify communications with business leaders.'
+Control frameworks.
+Programme frameworks.
+Communication frameworks.
+Security frameworks.
+
+Correct answer: Programme frameworks.
+
+Slide 13
+Quiz: Question 5
+Is the following statement true or false?
+'A control framework will focus on risk and prioritise security.'
+True.
+False.
+
+Correct answer: False.
+
+Slide 14
+Confidence check
+During this Section, you have covered the following assessment criteria:
+3.1 Identify cyber security controls.
+3.2 Explain a basic cyber security framework.
+3.3 Evaluate a cyber security framework.
+
+Please make sure that you're confident with your learning in all of these areas before you move on.
+
+Slide 15
+Section complete
+Well done! You have completed Section 3: Controls in cyber security.
+In Section 4, you will learn all about applying a cyber security control.

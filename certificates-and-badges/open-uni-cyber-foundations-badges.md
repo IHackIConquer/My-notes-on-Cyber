@@ -1,0 +1,5 @@
+# Open Uni Cyber Foundations Badges
+
+<div><figure><img src="../.gitbook/assets/Cyber_Foundations_-_Week_1_24_Apr_2025_e16f6fb8 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Cyber_Foundations_-_Week_2_25_Apr_2025_5672aebc (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Cyber_Foundations_-_Week_3_24_Apr_2025_8f54edb1 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Cyber_Foundations_-_Week_4_25_Apr_2025_38492cb5 (1).png" alt=""><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/Cyber_Foundations_-_Week_5_1_May_2025_85f4638d (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Cyber_Foundations_-_Week_6_1_May_2025_32e9a289 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Cyber_Foundations_-_Week_7_1_May_2025_ee4680d9 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Cyber_Foundations_-_SUCCESS_1_May_2025_e43f28a6 (1).png" alt=""><figcaption></figcaption></figure></div>

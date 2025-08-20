@@ -1,0 +1,226 @@
+NCFE Level 3 Certificate in Cyber Security Practices
+Unit 3: Cyber security testing, vulnerabilities and controls
+Section 2: Reduce or remove potential cyber security vulnerabilities
+
+Slide 1
+What you'll learn
+Welcome to Section 2: Reduce or remove potential cyber security vulnerabilities.
+During this Section, you will cover the following assessment criteria:
+2.1 Identify cyber security vulnerabilities.
+2.2 Demonstrate the steps to be taken when a vulnerability has been identified.
+2.3 Apply the correct response to the vulnerability.
+2.4 Develop an appropriate communication to mitigate future vulnerabilities.
+
+Slide 2
+Cyber security vulnerabilities
+Key term: In cyber security, a vulnerability is any weakness that can be exploited in order to gain unauthorised access to a computer system.
+There are hundreds and thousands of different types of vulnerabilities, but many fall into similar categories. Click the buttons below to learn more.
+
+Button 1
+Network vulnerabilities
+* Unpatched software: Attackers can exploit known security bugs that have not been patched.
+* System misconfigurations, such as unchanged defaults can be exploited by attackers.
+* Weak credentials: Attackers may use dictionary or brute force attacks to guess weak passwords.
+* Trust relationship: Attackers can exploit configurations that have been set up to permit access between systems.
+* Missing/poor encryption: Attackers can intercept unencrypted or poorly encrypted information.
+* Zero day attacks: Zero days are software vulnerabilities that do not yet have a patch.
+* Cross-site scripting: Attackers can get around policies designed to segregate different websites from each other, allowing them to masquerade as a user.
+* SQL injection: This allows an attacker to interfere with the queries that an application makes to its database.
+* Phishing, web and ransomware: Used by attackers to get users to inadvertently execute some malicious code, and thereby compromise a system, account or session.
+* Compromised credentials: Attackers can intercept and extract passwords from unencrypted or incorrectly encrypted communication between your systems.
+* Malicious insider: An employee or a vendor who might have access to critical systems can use their access to steal or destroy information.
+
+Button 2
+System vulnerabilities
+Network segmentation is used to divide a network into different segments or subnets, with each acting as its own small network. This allows network administrators to control the flow of traffic between subnets.
+However, many attackers rely on weak network segmentation and monitoring to gain full access to all of the systems in a network once they've gained initial access to a particular subnet.
+
+Button 3
+Cloud vulnerabilities
+* Account hijacking: This is when attackers steal account credentials from users. Techniques include phishing and keylogging, buffer overflow attacks and cross-site scripting attacks.
+* Insecure application user interfaces (APIs): APIs are a type of software used to streamline cloud computing in offices by defining the interactions between different software applications, or between software and hardware. Insecure APIs can be exploited by attackers to launch DDoS attacks.
+
+Button 4
+On-premises/physical vulnerabilities
+Attackers can gain physical access to a site to cause damage.
+Once inside, they can look for passwords, access computers or even simply leave infected memory sticks lying around, hoping that someone will pick them up and use them.
+
+Slide 3
+Key steps when a vulnerability is identified
+Identifying a vulnerability, using testing, is the first step in the vulnerability management process.
+While there is no single vulnerability management process, many of them will include the following broad steps. Click the steps below to learn more.
+
+Step 1
+1. Alert management (escalation).
+
+Step 2
+2. Prioritise what vulnerabilities need to be dealt with first.
+
+Step 3
+3. Decide on the types of mitigation needed (such as applying anti-malware software).
+
+Step 4
+4. Apply the mitigation.
+
+Step 5
+5. Test the system to make sure the vulnerability has been patched.
+
+Slide 4
+Key steps when a vulnerability is identified
+After a vulnerability is found, it needs to be analysed and evaluated to find out what type of risk it presents, and whether the risk is serious or not. Some types of vulnerability test and threat models, such as Common Vulnerability Scoring System (CVSS), will assign risk ratings and scores to any vulnerabilities that are found. These scores can help organisations to decide which vulnerabilities they should focus on first.
+Organisations may also want to consider some other factors when deciding how quickly they need to act.
+Click the button below to find out what these may include.
+
+Button
+Key factors
+* Could someone directly exploit this vulnerability from the Internet?
+* How difficult is it to exploit this vulnerability?
+* Is there known, published exploit code for this vulnerability?
+* What would be the impact to the business if this vulnerability were exploited? How expensive will it be to fix the vulnerability?
+* Are there any other security controls in place that reduce the likelihood and/or impact of this vulnerability being exploited?
+* How old is the vulnerability/how long has it been on the network?
+
+Slide 5
+Applying the correct response to a vulnerability
+Key term: 'Remediation' is when a vulnerability is fully fixed or patched so it can't be exploited.
+Once an organisation has decided a vulnerability needs to be fixed, the next step is to decide how to do this. This usually involves remediation, when a vulnerability is fully fixed or patched so it can't be exploited.
+The exact response will depend on the type of vulnerability that has been found. This could involve anything from applying a software patch to staff training or installing physical security barriers.
+Mitigation is another option. This is sometimes necessary when a proper fix or patch isn't yet available for an identified vulnerability, and involves lessening the likelihood or impact of a vulnerability being exploited.
+
+Slide 6
+Progress check
+Here are some common responses to vulnerabilities. Consider when you might use each one and then click each flashcard to reveal the answers.
+
+Flashcard 1
+1. Installing endpoint security defences, such as firewalls and tools that scan for viruses and conduct behavioural analysis.
+Answer: Set this up when the system is set up and use it constantly.
+
+Flashcard 2
+2. Applying security patches.
+Answer: Whenever a vulnerability is found/on a regular schedule.
+
+Flashcard 3
+3. Updating software applications/installing new backup and data recovery systems.
+Answer: Update regularly or when a new version or patch is released. Backup and data recovery should be set up when the system is set up and used regularly.
+
+Flashcard 4
+4. Controlling network access.
+Answer: Use this whenever you need to limit the number of people who have access to data or systems.
+
+Flashcard 5
+5. Installing proxies, firewalls and micro-segmentation.
+Answer: This should be installed when the system is set up and used continuously.
+
+Flashcard 6
+6. Implementing more stringent password controls and multi-factor authentication tools.
+Answer: This should be installed when the system is set up and used continuously.
+
+Slide 7
+Case study
+Click on the tabs below to read a case study of applying responses to an attack.
+
+Tab 1
+In 2018, a threat actor launched an attack on Australia National University (ANU), and gained access to the system containing confidential information about student administration, financial management and human resources.
+This breach allowed the attacker to steal an unknown quantity of information.
+
+Tab 2
+The attack was launched at first with spearphishing emails, to try and gain the login credentials of an administrator or someone with access to targeted systems.
+A senior staff member received this email and did not click on or open the window, only previewing it before deleting the email. But the malicious code in the email did not require more interaction from the staff member in order to steal their login credentials as well as access their calendar.
+
+Tab 3
+All the emails sent by the attacker looked legitimate and used information from ANU's website to create believable emails.
+With each extra piece of information, the attacker found it easier to gain the next login credentials and more access to the network.
+
+Tab 4
+In late November 2018, ANU put in place a remediation plan that included a routine firewall change, which removed the attacker's access to the system.
+The actor however, immediately began activity to get back into the network, and successfully regained access after two weeks. ANU was able to detect the next spear phishing campaign and remove the actor again.
+There were several more attacks after this, but the attacks were unsuccessful and stopped in March 2019.
+
+Slide 8
+Communicating to mitigate future vulnerabilities
+Most organisations have a process for reporting vulnerabilities, so that after testing, a vulnerability assessment report will usually be prepared that details what was found and what steps were taken.
+This helps IT teams to better understand which remediation techniques will help them fix the most vulnerabilities with the least amount of effort, helps them to monitor vulnerability trends over time in different parts of their network, and can also support compliance and regulatory requirements.
+In small organisations, or for minor vulnerabilities that are easily remediated, a log of the incident and an email to senior management may be all that is required.
+Each organisation will have its own method and standard for reporting vulnerabilities. Most reports will include the sections shown here.
+Click the sections of the report to learn more.
+
+Button 1
+1. Executive summary
+This is a short overview of the vulnerability and its risk to the organisation. Important information, such as the name of servers scanned, and dates and times of the scan, among others, may also be included.
+
+Button 2
+2. Assessment overview
+This gives an introduction to what was achieved in the assessment and may include a section on analysis verification and methods used and assessment tools used. This section may also include test data, or the data may be included in a separate section or index.
+
+Button 3
+3. Results
+This is the main part of the assessment report and it will review and describe each vulnerability that was found, an explanation of what the issues are, the causes of the issues, and their importance.
+
+Button 4
+4. Mitigation recommendations
+This section will include the potential impact of the vulnerabilities on the organisation and recommendations on how to fix them.
+
+Slide 9
+Quiz: Question 1
+Unpatched software, system misconfigurations and compromised credentials are all examples of…
+System vulnerabilities.
+Cloud vulnerabilities.
+Physical vulnerabilities.
+Network vulnerabilities.
+
+Correct answer: Network vulnerabilities.
+
+Slide 10
+Quiz: Question 2
+Which one of the following is typically the final step in a vulnerability management process?
+Apply the mitigation.
+Test the system to make sure the vulnerability has been patched.
+Alert management.
+Prioritise what vulnerabilities need to be dealt with first.
+
+Correct answer: Test the system to make sure the vulnerability has been patched.
+
+Slide 11
+Quiz: Question 3
+Is the following statement true or false?
+'Remediation is when a vulnerability is fully fixed or patched so that it can't be exploited.'
+True.
+False.
+
+Correct answer: True.
+
+Slide 12
+Quiz: Question 4
+When reporting vulnerabilities, which section of the report would typically include information relating to the potential impact of the vulnerabilities and how to fix them?
+Assessment overview.
+Mitigation recommendations.
+Executive summary.
+Results.
+
+Correct answer: Mitigation recommendations.
+
+Slide 13
+Quiz: Question 5
+Select one option to complete this sentence:
+'After a ___________ is found, it needs to be analysed and evaluated to find out what type of risk it presents.'
+Mitigation.
+Security patch.
+Vulnerability.
+Remediation.
+
+Correct answer: Vulnerability.
+
+Slide 14
+Confidence check
+During this Section, you have covered the following assessment criteria:
+2.1 Identify cyber security vulnerabilities.
+2.2 Demonstrate the steps to be taken when a vulnerability has been identified.
+2.3 Apply the correct response to the vulnerability.
+2.4 Develop an appropriate communication to mitigate future vulnerabilities.
+
+Please make sure that you're confident with your learning in all of these areas before you move on.
+
+Slide 15
+Section complete
+Well done! You have completed Section 2: Reduce or remove potential cyber security vulnerabilities.
+In Section 3, you will learn all about controls in cyber security.
