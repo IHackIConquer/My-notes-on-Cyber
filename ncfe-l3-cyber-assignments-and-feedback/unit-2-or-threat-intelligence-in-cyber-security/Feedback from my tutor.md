@@ -4,14 +4,6 @@ description: ∼ 7k words on Threat intelligence in cyber security
 
 # UNIT 2 | Threat intelligence in cyber security
 
-{% file src="../../.gitbook/assets/Unit2section1.txt" %}
-
-{% file src="../../.gitbook/assets/unit2section2.txt" %}
-
-{% file src="../../.gitbook/assets/unit2section3 (1).txt" %}
-
-{% file src="../../.gitbook/assets/unit2section4.txt" %}
-
 **Overall Feedback:**\
 Thank you for submitting your assessment 2 answers.\
 \
