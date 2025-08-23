@@ -1,14 +1,10 @@
 ---
-description: ∼ 8 words on Understanding cyber security principles
+description: ∼ 8k words on Understanding cyber security principles
 ---
 
 # UNIT 1 | Understanding cyber security principles
 
 
-
-{% file src="../../.gitbook/assets/Workbook 1.pdf" %}
-
-{% file src="../../.gitbook/assets/cost_of_a_data_breach_report_2024.pdf" %}
 
 Overall Feedback from my tutor:
 
