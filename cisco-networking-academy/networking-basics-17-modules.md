@@ -480,4 +480,4 @@ ipconfig /renew  # will request fresh configuration information from the DHCP se
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-lol ^ . 2 months of studuying I got 3 points less than before on the checkpoint exam.
+lol ^ . 2 months of studuying I got 3 points less than on the checkpoint exam, despite getting 86% on the Final Exam!
