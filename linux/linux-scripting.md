@@ -30,7 +30,6 @@ Start every script with shebang like this:
 
 ## Variables
 
-{% code lineNumbers="true" %}
 ```shell
 # Defining the Interpreter 
 #!/bin/bash
@@ -38,13 +37,11 @@ echo "Hey, what’s your name?"
 read name
 echo "Welcome, $name"
 ```
-{% endcode %}
 
 The script above displays a string on the screen: "Hey, what’s your name?” This is done by `echo` command. The second line of the script contains the code `read name`. `read` is used to take input from the user, and `name` is the variable in which the input would be stored. The last line uses `echo` to display the welcome line for the user, along with its name stored in the variable.
 
 ## Loops
 
-{% code lineNumbers="true" %}
 ```bash
 # Defining the Interpreter 
 #!/bin/bash
@@ -53,13 +50,11 @@ do
 echo $i
 done
 ```
-{% endcode %}
 
 The first line has the variable `i` that will iterate from 1 to 10 and execute the below code every time. `do` indicates the start of the loop code, and `done` indicates the end. In between them, the code we want to execute in the loop is to be written. The for loop will take each number in the brackets and assign it to the variable `i` in each iteration. The `echo $i` will display this variable’s value every iteration.
 
 ## The IF statement
 
-{% code lineNumbers="true" %}
 ```shell
 # Defining the Interpreter 
 #!/bin/bash
@@ -71,13 +66,11 @@ else
         echo "Sorry! You are not authorized to access the secret."
 fi
 ```
-{% endcode %}
 
 ## Comments
 
 If the code is getting lengthy and complicated it's good practice to start adding comments
 
-{% code lineNumbers="true" %}
 ```bash
 # Defining the Interpreter
 #!/bin/bash
@@ -99,7 +92,6 @@ else
         echo "Sorry! You are not authorized to access the secret."
 fi
 ```
-{% endcode %}
 
 ## Putting all I've learned together into a simple locker script&#x20;
 
@@ -138,7 +130,7 @@ fi
 
 This script searches for a specific keyword in all the files (with .log extension) in a specific directory.
 
-{% code title="flag_hunt.sh" lineNumbers="true" %}
+
 ```bash
 #!/bin/bash
 
@@ -159,7 +151,6 @@ echo "Flag found in: $(basename "$file")"
 fi
 done
 ```
-{% endcode %}
 
 To run the script:
 
