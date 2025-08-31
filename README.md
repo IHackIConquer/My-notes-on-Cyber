@@ -9,18 +9,6 @@ It includes notes from courses, labs, certifications, and experiments across a w
 
 Below is an overview of the main sections in this repo. Each link points to the corresponding folder or file.
 
-### Top-Level Notes
-- [01000101-01110110-01101011-01100001.md](./01000101-01110110-01101011-01100001.md)
-- [Authentication Bypass](./Authentication%20Bypass.md)
-- [Content Discovery](./Content%20Discovery.md)
-- [Do not README](./Do%20not%20README.md)
-- [Latest Stuff I've Been Learning](./Latest%20Stuff%20I've%20Been%20Learning.md)
-- [OU Cyber Foundations](./OU%20Cyber%20Foundations.md)
-- [Subdomain Enumeration](./Subdomain%20Enumeration.md)
-- [Sudo Security Bypass](./Sudo%20Security%20Bypass.md)
-- [ccna.md](./ccna.md)
-- [unsorted-notes-on-everything.md](./unsorted-notes-on-everything.md)
-
 ### Certificates and Badges
 - [Certificates and Badges](./Certificates%20and%20Badges/README.md)
   - [Open University Cyber Foundations](./Certificates%20and%20Badges/open-uni-cyber-foundations-badges.md)
