@@ -1,6 +1,10 @@
-https://tryhackme.com/p/kenamot1
 ---
-www.linkedin.com/in/ales-tomanek
+
+https://tryhackme.com/p/AlesTomanek
+
+--
+https://linkedin.com/in/ales-tomanek
+
 ---
 
 # Certificates & Badges
