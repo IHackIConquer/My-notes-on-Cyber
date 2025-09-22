@@ -3,7 +3,7 @@
 Some random notes from messing around with my headless Debian box (an old Acer machine). Mostly just things I had to learn the hard way.
 
 ## Disclosure
-This write-up was lightly reformatted by chat GPT for GitHub Markdown readability:
+This write-up (including this disclosure) was reformatted by chat GPT for GitHub Markdown readability:
 - Added **headings** and a **table of contents** for navigation.  
 - Cleaned up formatting (code blocks, bullet points, spacing).  
 - Did minimal proofreading for grammar/clarity, but kept the original casual tone.  
