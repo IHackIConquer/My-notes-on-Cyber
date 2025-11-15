@@ -1,0 +1,41 @@
+```text
+.
+├── Certificates and Badges
+├── Personal Projects
+│   ├── Windows 11 Custom
+│   └── random-experiments
+└── Structured Learning
+    ├── Cisco Certified Support Technician courses
+    ├── NCFE Level 3 Cyber Assignments And Feedback
+    │   ├── Unit 1 Understanding Cyber Security Principles
+    │   ├── Unit 2 Threat Intelligence In Cyber Security
+    │   ├── Unit 3 Cyber Security Testing Vulnerabilities And Controls
+    │   ├── Unit 4 Cyber Security Incident Response
+    │   │   └── 10a.-consider-the-importance-of-the-following-when-carrying-out-an-incident-post-mortem-ac-3.3-in
+    │   ├── Unit 5 Understand Legislation And Ethical Conduct Within Cyber Security
+    │   └── Unit 6 Professional Skills And Behaviours For Cyber Security
+    │       └── 4.-describe-the-following-security-clearance-levels-ac-1.4
+    ├── Tryhackme
+    │   ├── Enumeration
+    │   │   └── nmap
+    │   ├── Linux
+    │   ├── Tryhackme.com Cyber Security 101
+    │   │   ├── computer-networking
+    │   │   │   ├── networking-concepts
+    │   │   │   ├── networking-core-protocols
+    │   │   │   │   └── email-stmp-pop3-imap
+    │   │   │   └── networking-essentials
+    │   │   ├── cryptography
+    │   │   │   ├── hashing-basics
+    │   │   │   └── public-key-cryptography-basics
+    │   │   ├── defensive-security
+    │   │   ├── exploitation-basics
+    │   │   │   └── metasploit
+    │   │   ├── offensive-security-tooling
+    │   │   ├── security-solutions
+    │   │   └── web-hacking
+    │   └── Windows
+    └── python-100-days-of-code-the-complete-python-pro-bootcamp-notes
+
+37 directories
+```
