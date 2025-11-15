@@ -1,40 +1,38 @@
-# Project Overview
+# My-notes-on-Cyber — Table of contents
 
-## Folder Structure
+This README lists the repository folders, subfolders and files as a clickable table of contents.
 
-                    - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/computer-networking/networking-core-protocols/email-stmp-pop3-imap/
-                - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/computer-networking/networking-concepts/
-                - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/computer-networking/networking-core-protocols/
-                - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/computer-networking/networking-essentials/
-                - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/cryptography/hashing-basics/
-                - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/cryptography/public-key-cryptography-basics/
-                - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/exploitation-basics/metasploit/
-            - ./Structured Learning/NCFE Level 3 Cyber Assignments And Feedback/Unit 4 Cyber Security Incident Response/10a.-consider-the-importance-of-the-following-when-carrying-out-an-incident-post-mortem-ac-3.3-in/
-            - ./Structured Learning/NCFE Level 3 Cyber Assignments And Feedback/Unit 6 Professional Skills And Behaviours For Cyber Security/4.-describe-the-following-security-clearance-levels-ac-1.4/
-            - ./Structured Learning/Tryhackme/Enumeration/nmap/
-            - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/computer-networking/
-            - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/cryptography/
-            - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/defensive-security/
-            - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/exploitation-basics/
-            - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/offensive-security-tooling/
-            - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/security-solutions/
-            - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/web-hacking/
-        - ./Structured Learning/NCFE Level 3 Cyber Assignments And Feedback/Unit 1 Understanding Cyber Security Principles/
-        - ./Structured Learning/NCFE Level 3 Cyber Assignments And Feedback/Unit 2 Threat Intelligence In Cyber Security/
-        - ./Structured Learning/NCFE Level 3 Cyber Assignments And Feedback/Unit 3 Cyber Security Testing Vulnerabilities And Controls/
-        - ./Structured Learning/NCFE Level 3 Cyber Assignments And Feedback/Unit 4 Cyber Security Incident Response/
-        - ./Structured Learning/NCFE Level 3 Cyber Assignments And Feedback/Unit 5 Understand Legislation And Ethical Conduct Within Cyber Security/
-        - ./Structured Learning/NCFE Level 3 Cyber Assignments And Feedback/Unit 6 Professional Skills And Behaviours For Cyber Security/
-        - ./Structured Learning/Tryhackme/Enumeration/
-        - ./Structured Learning/Tryhackme/Linux/
-        - ./Structured Learning/Tryhackme/Tryhackme.com Cyber Security 101/
-        - ./Structured Learning/Tryhackme/Windows/
-    - ./Personal Projects/Windows 11 Custom/
-    - ./Personal Projects/random-experiments/
-    - ./Structured Learning/Cisco Certified Support Technician courses/
-    - ./Structured Learning/NCFE Level 3 Cyber Assignments And Feedback/
-    - ./Structured Learning/Tryhackme/
-    - ./Structured Learning/python-100-days-of-code-the-complete-python-pro-bootcamp-notes/
-- ./Certificates and Badges/
-- ./Personal Projects/
-- ./Structured Learning/
+- [.gitbook](https://github.com/IHackIConquer/My-notes-on-Cyber/tree/main/.gitbook)
+  - [assets](https://github.com/IHackIConquer/My-notes-on-Cyber/tree/main/.gitbook/assets)
+
+- [Certificates and Badges](https://github.com/IHackIConquer/My-notes-on-Cyber/tree/main/Certificates%20and%20Badges)
+  - [README.md](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/Certificates%20and%20Badges/README.md)
+  - [open-uni-cyber-foundations-badges.md](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/Certificates%20and%20Badges/open-uni-cyber-foundations-badges.md)
+  - [thm-badges.md](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/Certificates%20and%20Badges/thm-badges.md)
+
+- [Latest Stuff I've Been Learning.md](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/Latest%20Stuff%20I've%20Been%20Learning.md)
+
+- [Personal Projects](https://github.com/IHackIConquer/My-notes-on-Cyber/tree/main/Personal%20Projects)
+  - [01000101-01110110-01101001-01100011-01101011-01100001.md](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/Personal%20Projects/01000101-01110110-01101001-01100011-01101011-01100001.md)
+  - [Cisco 1841.md](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/Personal%20Projects/Cisco%201841.md)
+  - [Headless Debian setup.md](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/Personal%20Projects/Headless%20Debian%20setup.md)
+  - [Wake-on-Lan on headless Debian.md](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/Personal%20Projects/Wake-on-Lan%20on%20headless%20Debian.md)
+  - [Windows 11 Custom](https://github.com/IHackIConquer/My-notes-on-Cyber/tree/main/Personal%20Projects/Windows%2011%20Custom)
+    - [Windows 11 Customisation](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/Personal%20Projects/Windows%2011%20Customisation)
+  - [random-experiments](https://github.com/IHackIConquer/My-notes-on-Cyber/tree/main/Personal%20Projects/random-experiments)
+  - [unsorted-notes-on-everything.md](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/Personal%20Projects/unsorted-notes-on-everything.md)
+
+- [Structured Learning](https://github.com/IHackIConquer/My-notes-on-Cyber/tree/main/Structured%20Learning)
+  - [Cisco Certified Support Technician courses](https://github.com/IHackIConquer/My-notes-on-Cyber/tree/main/Structured%20Learning/Cisco%20Certified%20Support%20Technician%20courses)
+  - [NCFE Level 3 Cyber Assignments And Feedback](https://github.com/IHackIConquer/My-notes-on-Cyber/tree/main/Structured%20Learning/NCFE%20Level%203%20Cyber%20Assignments%20And%20Feedback)
+  - [OU Cyber Foundations.md](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/Structured%20Learning/OU%20Cyber%20Foundations.md)
+  - [Tryhackme](https://github.com/IHackIConquer/My-notes-on-Cyber/tree/main/Structured%20Learning/Tryhackme)
+  - [ccna.md](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/Structured%20Learning/ccna.md)
+  - [python-100-days-of-code-the-complete-python-pro-bootcamp-notes](https://github.com/IHackIConquer/My-notes-on-Cyber/tree/main/Structured%20Learning/python-100-days-of-code-the-complete-python-pro-bootcamp-notes)
+
+- [script.py](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/script.py)
+- [structure.md](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/structure.md)
+- [structure.txt](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/structure.txt)
+- [tree-to-md.sh](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/tree-to-md.sh)
+
+- [README.md (this repo)](https://github.com/IHackIConquer/My-notes-on-Cyber/blob/main/README.md)
