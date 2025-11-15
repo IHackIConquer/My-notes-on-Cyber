@@ -1,3 +1,4 @@
+# All of this needs updating as most of the links won't work!
 # My Notes on Cyber
 
 This repository is my personal knowledge base for learning and practising cyber security.  
